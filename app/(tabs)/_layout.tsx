@@ -7,7 +7,7 @@ const Layout = () => (
       name="index"
       options={{
         title: 'Home',
-        headerTitleAlign: 'center',   // <-- THIS CENTERS THE TITLE
+        headerTitleAlign: 'center',   
       }}
     />
   </Stack>

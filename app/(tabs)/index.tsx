@@ -28,7 +28,7 @@ export default function App() {
   const mapRef = useRef<MapView | null>(null);
   const navigation = useNavigation();
 
-  // like the website, but Focus button on TOP LEFT instead of right
+ 
   useEffect(() => {
     navigation.setOptions({
       title: 'Home',
